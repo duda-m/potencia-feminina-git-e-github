@@ -1,4 +1,4 @@
-## Curso Git GitHub (potencia feminina) :butterfly:
+## Curso Git GitHub (potência feminina) :butterfly:
 
 ###### Link: https://potenciafeminina.myedools.com/git-git-hub
 
