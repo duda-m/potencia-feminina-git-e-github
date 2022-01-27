@@ -21,4 +21,9 @@
 
 Para excluir: Ir na sessão das branches e clicar no botão de delete
 
+### -Comandos Utéis-
+
+- git branch --> mostra as branch's existentes no projeto
+- git checkout _nomedabranch_ --> muda de branch
+
 
